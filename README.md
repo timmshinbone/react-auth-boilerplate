@@ -14,11 +14,9 @@ or the [Express API Template](https://git.generalassemb.ly/sei-ec-remote/mongoos
 1. Change [`README.md`](README.md) to `REF.md` and add your planning `README.md` with your wireframes and user stories.
 1. Replace `react-auth-template` in `package.json` with your
    project's name.
-1. Replace the `"homepage"` field in `package.json` with your (public) Github
-   account name and repository name.
-1. Install dependencies with `npm install`.
-1. `git add` and `git commit` your changes.
-1. Run the development server with `npm start`.
+2. Install dependencies with `npm install`.
+3. `git add` and `git commit` your changes.
+4. Run the development server with `npm start`.
 
 ## Deployment
 
